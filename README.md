@@ -2,7 +2,6 @@
 
 <p>
 
-<img src="preview-image-url.png" alt="Restaurant Web Site Preview" width="800">
 
 <h3>🔥 A Modern, Interactive, and User-Friendly Restaurant Website 🔥</h3>
 
