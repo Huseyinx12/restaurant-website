@@ -64,6 +64,6 @@ This website allows users to:
 
 ---
 
-<h2>Live Preview GIF</h2>
+<h2>🎥 Live Preview GIF</h2>
 
 ![](restaurant.gif)
